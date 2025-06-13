@@ -79,5 +79,6 @@ fig2 = px.scatter(df, x='PC1', y='PC2', color='Cluster', text='City', title='Cit
 st.plotly_chart(fig2)
 
 # Dataframe
-st.dataframe(df[['City', 'Weighted Score'] + categories])
+st.dataframe(df.sort_values('Weighted Score', ascending=False)[['City', 'Weighted Score'] + categories])
+
 
