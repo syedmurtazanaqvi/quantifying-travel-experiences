@@ -18,7 +18,7 @@ data = {
     'Cleanliness': [7, 8, 6, 7, 9, 9, 9, 9, 6, 5],
     'Hospitality': [9, 8, 8, 8, 7, 8, 8, 9, 8, 9],
     'Safety': [7, 7, 6, 7, 9, 9, 9, 9, 7, 5],
-    'Revisit Likelihood': [9, 8, 8, 9, 9, 9, 10, 9, 10, 9]
+    'Revisit Likelihood': [9, 8, 8, 9, 9, 9, 10, 9, 9, 9]
 }
 
 df = pd.DataFrame(data)
