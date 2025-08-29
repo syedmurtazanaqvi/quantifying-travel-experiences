@@ -11,7 +11,7 @@ from sklearn.cluster import KMeans
 #data findings
 data = {
     'City': ['Beijing', 'Wuhan', 'Chongqing', 'Chengdu', 'Tokyo', 'Osaka', 'Kyoto', 'Kamakura', 'Islamabad', 'Lahore'],
-    'Natural Beauty': [9, 6, 7, 8, 6, 7, 9, 8, 9, 7],
+    'Natural Beauty': [9, 7, 8, 7, 6, 7, 9, 8, 9, 7],
     'Food': [9, 9, 9, 10, 10, 9, 10, 8, 9, 10],
     'Cultural Vibe': [9, 8, 9, 9, 9, 9, 10, 8, 8, 10],
     'Affordability': [7, 8, 6, 7, 5, 6, 5, 6, 9, 9],
