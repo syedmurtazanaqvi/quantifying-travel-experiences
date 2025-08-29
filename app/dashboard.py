@@ -14,11 +14,11 @@ data = {
     'Natural Beauty': [9, 7, 8, 7, 6, 7, 9, 8, 9, 7],
     'Food': [9, 9, 9, 10, 10, 9, 10, 8, 9, 10],
     'Cultural Vibe': [9, 8, 9, 9, 9, 9, 10, 8, 8, 10],
-    'Affordability': [7, 8, 6, 7, 5, 6, 5, 6, 9, 9],
+    'Affordability': [7, 8, 8, 8, 5, 6, 5, 6, 9, 9],
     'Cleanliness': [7, 8, 8, 7, 9, 9, 9, 9, 7, 5],
-    'Hospitality': [7, 8, 8, 8, 7, 8, 8, 9, 10, 9],
-    'Safety': [8, 8, 9, 7, 9, 9, 9, 9, 7, 5],
-    'Revisit Likelihood': [8, 7, 9, 8, 9, 9, 10, 9, 9, 9]
+    'Hospitality': [7, 9, 8, 9, 7, 8, 8, 9, 10, 9],
+    'Safety': [9, 8, 7, 8, 9, 9, 9, 9, 7, 5],
+    'Revisit Likelihood': [8, 8, 9, 8, 9, 9, 10, 9, 9, 7]
 }
 
 df = pd.DataFrame(data)
