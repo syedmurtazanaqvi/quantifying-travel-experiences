@@ -17,14 +17,14 @@ This project is my attempt to answer that — not with vague memories, but with 
 ## 🌏 The Cities
 
 - Islamabad 🇵🇰
-- Lahore 🇵🇰  
+- Lahore 🇵🇰
+- Beijing 🇨🇳 
 - Wuhan 🇨🇳  
 - Chongqing 🇨🇳  
 - Chengdu 🇨🇳  
 - Tokyo 🇯🇵  
 - Osaka 🇯🇵  
-- Kyoto 🇯🇵  
-- Kamakura 🇯🇵  
+- Kyoto 🇯🇵    
 - Bangkok 🇹🇭    
 
 Each one is scored across 8 experiential factors:
